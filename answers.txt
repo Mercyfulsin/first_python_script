@@ -1,0 +1,2 @@
+{'name': 'eth', 'apy': '2', 'initial': '2'}
+{'name': 'hnt', 'apy': '3', 'initial': '3'}
